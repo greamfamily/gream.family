@@ -1,8 +1,8 @@
 <html>
  <head>
-  <title>gream-home.net</title>
+  <title>gream.family</title>
  </head>
  <body>
- <?php echo '<p>gream-home.net</p>'; ?> 
+ <?php echo '<p>gream.family</p>'; ?> 
  </body>
 </html>
