@@ -3,6 +3,6 @@
   <title>gream.family</title>
  </head>
  <body>
- <?php echo '<p>gream.family</p>'; ?> 
+  <img src="GREAMFAMILY.png" alt="GREAM FAMILY"></img>
  </body>
 </html>
